@@ -25,18 +25,22 @@
 
 ## 主要持股（前十大）
 
-| 名次 | 持股名稱                    | 權重 (%) |
-|----|---------------------------|--------|
-| 1  | MITSUBISHI HEAVY INDUSTRIES | 9.52   |
-| 2  | NEC CORP                    | 6.63   |
-| 3  | HANWHA AEROSPACE CO LTD     | 6.16   |
-| 4  | IHI CORP                    | 5.49   |
-| 5  | FUJITSU LIMITED             | 4.90   |
-| 6  | HANWHA SYSTEMS CO LTD       | 4.42   |
-| 7  | GENERAL ELECTRIC            | 4.28   |
-| 8  | 台積電 (TSMC)                 | 4.22   |
-| 9  | MITSUBISHI ELECTRIC CORP    | 4.18   |
-| 10 | NVIDIA CORP                 | 3.51   |
+
+| 名次 | 公司 | 股票代號 | 所在國 | 權重 (%) | 軍工相關業務 |
+|----:|:--------------------------------|:-----------|:--------|:--------|:------------------------------------|
+| 1 | **Mitsubishi Heavy Industries** 三菱重工 | TSE: 7011 | 🇯🇵 日本 | **9.52** | 飛彈、航空發動機、艦艇、太空發射器 |
+| 2 | **NEC Corp** | TSE: 6701 | 🇯🇵 日本 | **6.63** | AESA 雷達、指揮控制、網路防禦 |
+| 3 | **Hanwha Aerospace** | KRX: 012450 | 🇰🇷 南韓 | **6.16** | 發動機、K9 自走砲、飛彈推進器 |
+| 4 | **IHI Corp** | TSE: 7013 | 🇯🇵 日本 | **5.49** | 戰機發動機、火箭、SAR 衛星 |
+| 5 | **Fujitsu Limited** | TSE: 6702 | 🇯🇵 日本 | **4.90** | ICT 後勤、AI 指揮系統、資安 |
+| 6 | **Hanwha Systems** | KRX: 272210 | 🇰🇷 南韓 | **4.42** | 雷達、電子戰、反無人機整合 |
+| 7 | **GE Aerospace** (General Electric) | NYSE: GE | 🇺🇸 美國 | **4.28** | 渦扇/渦軸發動機、混合電動推進 |
+| 8 | **台積電** (TSMC) | NYSE: TSM | 🇹🇼 台灣 | **4.22** | 先進製程晶圓與 CoWoS 封裝 |
+| 9 | **Mitsubishi Electric** 三菱電機 | TSE: 6503 | 🇯🇵 日本 | **4.18** | 艦載/陸基 AESA 雷達、感測器 |
+| 10 | **NVIDIA Corp** | NASDAQ: NVDA | 🇺🇸 美國 | **3.51** | AI GPU 加速、國防 HPC 平台 |
+
+
+
 
 ---
 
